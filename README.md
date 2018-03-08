@@ -1,2 +1,2 @@
-# Hash-Table-vs.-Linked-List
+# Hash Table vs. Linked List
 Although essentially a basic method for compressing large-sized data to small-sized keys, hashing is a procedure commonly employed in computer science due to the utility it provides for a variety of applications. While complex hash functions can be designed to accommodate sophisticated algorithms that optimize relational databases or enable cryptographic methods for digital signatures, the most basic standard hash functions are still efficient enough to allow the implementation of associative arrays. By now, every major programming language has an efficient implementation for an associative array, usually called a dictionary (e.g. Python, .NET) or a map (e.g. C++, Java).
